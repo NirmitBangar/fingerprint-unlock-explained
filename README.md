@@ -14,7 +14,10 @@ No password. No effort. No second thought.
 
 > Your phone just recognized you… using your skin.
 
-Now pause for a second.
+And in that tiny moment…
+
+your phone just proved  
+that you are YOU.
 
 That tiny touch triggered a chain of processes  
 involving sensing, signal processing, pattern recognition,  
@@ -27,6 +30,9 @@ All of that… in less than a second.
 ##  What’s really happening?
 
 ![Fingerprint Pattern](assets/fingerprint-pattern.png)
+Your phone doesn’t just scan your finger.
+
+It understands it.
 
 Your fingerprint is not random at all.
 
@@ -150,6 +156,9 @@ Because:
 - Dedicated hardware handles processing  
 
 Your phone is constantly balancing:
+It’s not just speed.
+
+It’s precision happening instantly.
 
 > Speed  + Accuracy  + Security 
 
