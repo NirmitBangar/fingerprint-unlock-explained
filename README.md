@@ -30,6 +30,7 @@ All of that… in less than a second.
 ##  What’s really happening?
 
 ![Fingerprint Pattern](assets/fingerprint-pattern.png)
+
 Your phone doesn’t just scan your finger.
 
 It understands it.
