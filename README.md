@@ -39,8 +39,8 @@ Your fingerprint sensor is basically:
 
 Think of your fingerprint as a landscape:
 
-- Ridges → mountains  
-- Valleys → gaps  
+ Ridges → mountains  
+ Valleys → gaps  
 
 ![Fingerprint Pattern](assets/fingerprint-pattern.png)
 
@@ -56,9 +56,9 @@ Each sensor asks:
 
 Under your phone’s surface is:
 
-- A **grid of microscopic capacitors**
-- Each one stores tiny electric charge
-- Each one reacts differently depending on your fingerprint
+ A **grid of microscopic capacitors**
+ Each one stores tiny electric charge
+ Each one reacts differently depending on your fingerprint
 
 ![Capacitive Sensor](assets/capacitive.png)
 
@@ -74,8 +74,8 @@ But here’s the important part:
 
 So when your finger touches:
 
-- **Ridges (closer)** → more effect  
-- **Valleys (farther)** → less effect  
+ **Ridges (closer)** → more effect  
+ **Valleys (farther)** → less effect  
 
 ---
 
@@ -147,24 +147,24 @@ Also your phone:
 ###  Optical Sensor
 ![Optical](assets/optical.png)
 
-- Takes a photo of fingerprint  
-- Older technology  
+ Takes a photo of fingerprint  
+ Older technology  
 
 ---
 
 ###  Capacitive Sensor (Most Used)
 ![Capacitive](assets/capacitive.png)
 
-- Uses electrical signals  
-- Fast and secure  
+ Uses electrical signals  
+ Fast and secure  
 
 ---
 
 ###  Ultrasonic Sensor
 ![Ultrasonic](assets/ultrasonic.png)
 
-- Uses sound waves  
-- Works even through glass  
+ Uses sound waves  
+ Works even through glass  
 
 ---
 
@@ -174,9 +174,9 @@ Because it's not just about shape.
 
 It’s about:
 
-✔ Electrical properties  
-✔ Conductivity  
-✔ Micro-level interaction  
+ Electrical properties  
+ Conductivity  
+ Micro-level interaction  
 
 ---
 
@@ -191,12 +191,12 @@ It stores key features called:
 ![Minutiae Points](assets/minutiae-points.png)
 
 These include:
-- Ridge endings  
-- Bifurcations  
+ Ridge endings  
+ Bifurcations  
 
 This makes matching:
-✔ Faster  
-✔ More secure  
+ Faster  
+ More secure  
 
 ---
 
@@ -209,9 +209,9 @@ Inside a special secure chip:
  Called Secure Enclave / Trusted Hardware  
 
 Your fingerprint data:
-- Never leaves the device  
-- Never uploaded to cloud  
-- Stored in encrypted form  
+ Never leaves the device  
+ Never uploaded to cloud  
+ Stored in encrypted form  
 
 ---
 
@@ -219,9 +219,9 @@ Your fingerprint data:
 
 This is what makes it insane:
 
-- Thousands of sensors working simultaneously  
-- Real-time signal processing  
-- Pattern recognition in milliseconds  
+ Thousands of sensors working simultaneously  
+ Real-time signal processing  
+ Pattern recognition in milliseconds  
 
 All happening…
 
