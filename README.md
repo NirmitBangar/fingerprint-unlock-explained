@@ -3,6 +3,10 @@
 
 ---
 
+![Cover](assets/cover.png)
+
+---
+
 ##  Let’s Start With Something Weird
 
 You unlock your phone 100 times a day.
@@ -29,10 +33,6 @@ Your fingerprint sensor is basically:
 
 > **A grid of thousands of tiny capacitors measuring how your finger disturbs an electric field.**
 
-Sounds complex?
-
-Let’s break it in the simplest way possible.
-
 ---
 
 ##  Imagine Your Finger Like This
@@ -41,6 +41,8 @@ Think of your fingerprint as a landscape:
 
 - Ridges → mountains  
 - Valleys → gaps  
+
+![Fingerprint Pattern](assets/fingerprint-pattern.png)
 
 Now imagine a surface below your finger filled with **tiny sensors**.
 
@@ -58,11 +60,11 @@ Under your phone’s surface is:
 - Each one stores tiny electric charge
 - Each one reacts differently depending on your fingerprint
 
+![Capacitive Sensor](assets/capacitive.png)
+
 ---
 
 ##  Wait… What is a Capacitor?
-
-Quick 10-second concept:
 
 A capacitor stores electric charge.
 
@@ -87,14 +89,7 @@ Instead:
 
  A **map of electrical differences**
 
-Each tiny capacitor says:
-
-- “Something is close here”
-- “Nothing is close here”
-
 Combine thousands of these…
-
-And boom:
 
 > You get a **digital fingerprint pattern**
 
@@ -102,49 +97,35 @@ And boom:
 
 ##  The “Wait, That’s Wild” Moment
 
-Your fingerprint is not stored as an image.
+Your fingerprint is NOT stored as an image.
 
 It’s stored as:
 
 > **Mathematical data representing electrical variations**
-
-Even crazier:
-
- Two fingerprints that look similar to you  
- Are completely different electrically
 
 ---
 
 ##  Step-by-Step: What Happens When You Touch
 
 ### 1. You place your finger  
-The sensor activates an electric field
-
----
+The sensor activates an electric field  
 
 ### 2. Capacitors start measuring  
-Each tiny cell checks how your finger affects it
-
----
+Each tiny cell checks how your finger affects it  
 
 ### 3. A pattern is formed  
-Ridges vs valleys = different capacitance values
-
----
+Ridges vs valleys = different capacitance values  
 
 ### 4. Data is processed  
-The phone converts this into a digital map
+Converted into a digital map  
 
----
+![Fingerprint Matching](assets/fingerprint-matching.png)
 
 ### 5. Matching happens  
-Your stored fingerprint data is compared
-
----
+Compared with stored fingerprint  
 
 ### 6. Access granted  
-If it matches → unlocked  
-If not → “try again ”
+Unlocked  or denied  
 
 ---
 
@@ -161,45 +142,76 @@ Also your phone:
 
 ---
 
-##  Types of Fingerprint Sensors ( Comparison)
+##  Types of Fingerprint Sensors
 
-| Type        | How it Works | Reality   |
-|-------------|-------------|--------------|
-| Optical     | Takes a photo | Older tech |
-| Capacitive  | Uses electricity |  Most common |
-| Ultrasonic  | Uses sound waves | Futuristic |
+###  Optical Sensor
+![Optical](assets/optical.png)
+
+- Takes a photo of fingerprint  
+- Older technology  
 
 ---
 
-##  Why Capacitive Sensors Won
+###  Capacitive Sensor (Most Used)
+![Capacitive](assets/capacitive.png)
 
-Because they are:
+- Uses electrical signals  
+- Fast and secure  
 
--  Fast  
--  More secure than simple images  
--  Easy to integrate in phones  
--  Cost-effective  
+---
 
-And most importantly:
+###  Ultrasonic Sensor
+![Ultrasonic](assets/ultrasonic.png)
 
-> They don’t rely on light — they rely on physics.
+- Uses sound waves  
+- Works even through glass  
 
 ---
 
 ##  Why Fake Fingerprints Don’t Easily Work
 
-Because:
+Because it's not just about shape.
 
-- It’s not just about shape  
-- It’s about **electrical interaction**  
+It’s about:
 
-A fake needs to:
+✔ Electrical properties  
+✔ Conductivity  
+✔ Micro-level interaction  
 
-✔ Match shape  
-✔ Match conductivity  
-✔ Match micro-level behavior  
+---
 
-Which is… very hard.
+##  Minutiae Points (The Real Identity)
+
+Your phone doesn’t store full fingerprint.
+
+It stores key features called:
+
+> **Minutiae Points**
+
+![Minutiae Points](assets/minutiae-points.png)
+
+These include:
+- Ridge endings  
+- Bifurcations  
+
+This makes matching:
+✔ Faster  
+✔ More secure  
+
+---
+
+##  Where Is Your Fingerprint Stored?
+
+Inside a special secure chip:
+
+![Secure Chip](assets/secure-chip.png)
+
+ Called Secure Enclave / Trusted Hardware  
+
+Your fingerprint data:
+- Never leaves the device  
+- Never uploaded to cloud  
+- Stored in encrypted form  
 
 ---
 
@@ -219,17 +231,11 @@ All happening…
 
 ##  The Deeper Insight
 
-This isn’t just about fingerprints.
+This is not just fingerprint tech.
 
-This is about:
+This is:
 
-> Turning a physical human feature  
-→ into  
-> Electrical signals  
-→ into  
-> Digital data  
-→ into  
-> Identity verification  
+> Human → Electrical Signal → Digital Data → Identity
 
 ---
 
